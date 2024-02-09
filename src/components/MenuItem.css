@@ -1,0 +1,57 @@
+html, body { height: 100%; }
+
+.menu-parent {
+    width: 340px;
+    height: 170px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.item {
+    margin: 10px;
+    height: 90px;
+}
+
+.pricing-items {
+    margin: 10px;
+}
+
+.item-name {
+    font-weight: bold;
+    font-size: large;
+    margin-top: 0px;
+}
+
+.item-desc {
+    margin: auto;
+    color: gray;
+}
+
+.price {
+    height: 30px;
+    margin-right:10px;
+}
+
+.add {
+    height: 30px;
+    margin-top: 14px;
+    margin-right: 25px;
+}
+
+.add-button {
+    width: 4em;
+    border-radius: 3vw;
+    background-color:navy;
+    color: whitesmoke;
+    box-shadow: 2px 2px 4px;
+    font-size: small;
+    display: inline-block;
+}
