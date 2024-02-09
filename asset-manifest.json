@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cs378-p2/static/css/main.fd155e15.css",
-    "main.js": "/cs378-p2/static/js/main.3e5eac8e.js",
+    "main.css": "/cs378-p2/static/css/main.02bfb8e2.css",
+    "main.js": "/cs378-p2/static/js/main.ce7f2fff.js",
     "static/js/592.280f86d6.chunk.js": "/cs378-p2/static/js/592.280f86d6.chunk.js",
     "static/media/yakitori.png": "/cs378-p2/static/media/yakitori.4607eac7ee100bb3b73d.png",
     "static/media/ramen.png": "/cs378-p2/static/media/ramen.125c98f7dc9998577310.png",
@@ -13,13 +13,14 @@
     "static/media/sashimi.png": "/cs378-p2/static/media/sashimi.b18e1a3471f74c5ecc39.png",
     "static/media/matcha-cake.png": "/cs378-p2/static/media/matcha-cake.ba045126fc0dea8ccda8.png",
     "static/media/mochi.png": "/cs378-p2/static/media/mochi.5c335d682a9d8e1890f2.png",
+    "static/media/logo.png": "/cs378-p2/static/media/logo.002d0b50511e58523f67.png",
     "index.html": "/cs378-p2/index.html",
-    "main.fd155e15.css.map": "/cs378-p2/static/css/main.fd155e15.css.map",
-    "main.3e5eac8e.js.map": "/cs378-p2/static/js/main.3e5eac8e.js.map",
+    "main.02bfb8e2.css.map": "/cs378-p2/static/css/main.02bfb8e2.css.map",
+    "main.ce7f2fff.js.map": "/cs378-p2/static/js/main.ce7f2fff.js.map",
     "592.280f86d6.chunk.js.map": "/cs378-p2/static/js/592.280f86d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd155e15.css",
-    "static/js/main.3e5eac8e.js"
+    "static/css/main.02bfb8e2.css",
+    "static/js/main.ce7f2fff.js"
   ]
 }
